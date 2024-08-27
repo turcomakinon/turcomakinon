@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning JavaScript and its' library which is called ReactJS.
 - 💞️ I’m looking to collaborate on new people who are interested in.
-- 📫 How to reach me: akinkavak1@gmail.clm
+- 📫 How to reach me: akinkavak1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
